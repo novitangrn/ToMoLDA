@@ -1,5 +1,6 @@
 # ToMoLDA
 #Projek ‘Klasifikasi Teks dalam NLP untuk Mendeteksi Topik Berita Berbasis Teks’ dibuat untuk mendapatkan sebaran topik  dari dokumen-dokumen yang ada dalam sebuah korpus. Data yang diambilberupa berita berbasis teks yang bisa didapatkan melalui proses scraping web secara real-time, atau bisa juga dengan mengunggah dataset lokal di menu yang telah disediakan. Kemudian dataset yang telah didapatkan diproses dengan menggunakan LDA (Latent Dirichlet Allocation). Metode LDA ini memudahkan dalam mencari atau memunculkan topik-topik tersembunyi saat melakukan pemrosesan serta dapat mendeteksi seberapa proporsionalnya kemunculan sebuah topik-topik tertentu
+#Memanfaatkan tkinter dari Python untuk membuat GUI agar user dapat dengan mudah mengeksekusi program.
 
 #Libraries
 import requests
